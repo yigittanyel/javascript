@@ -1,0 +1,1 @@
+var ogrenciler=["Yigit","Semih","Yusuf"]
